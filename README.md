@@ -8,4 +8,4 @@ Blog Backend for RESTfull Web Application
 - PostgreSQL
 - SQLAlchemy
 - Pydentic
-- JWT Authorization
+- JWT Authentication

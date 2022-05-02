@@ -1,7 +1,7 @@
 # fastapi-blog
 
 ## About
-Blog Backend for RESTfull Web Application
+Blog Backend for RESTful Web Application
 
 ## Used technologies
 - FastAPI

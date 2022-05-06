@@ -7,5 +7,5 @@ Blog Backend for RESTful Web Application
 - FastAPI
 - PostgreSQL
 - SQLAlchemy
-- Pydentic
+- Pydantic
 - JWT Authentication
